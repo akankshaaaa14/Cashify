@@ -1,1 +1,1 @@
-# Cashify
+# Cash Flow Minimizer System
