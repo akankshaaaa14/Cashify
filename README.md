@@ -51,7 +51,8 @@ If (magnitude of x) = y => X and Y both are completely settled and so both are r
 The same process is repeated for the remaining banks.
 For the current example, the transactions for minimum cash flow are as follows:
 
-image
+![image](https://github.com/akankshaaaa14/Cashify/assets/113722539/f0a99168-b681-4147-8768-f17ac61b14ee)
+
 
 So this is the required answer.
 
