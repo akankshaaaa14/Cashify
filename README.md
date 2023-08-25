@@ -51,13 +51,16 @@ If (magnitude of x) = y => X and Y both are completely settled and so both are r
 The same process is repeated for the remaining banks.
 For the current example, the transactions for minimum cash flow are as follows:
 
-![image](https://github.com/akankshaaaa14/Cashify/assets/113722539/f0a99168-b681-4147-8768-f17ac61b14ee)
+![image](https://github.com/akankshaaaa14/Cashify/assets/113722539/95ca4bbd-ffb8-4529-925c-cd6fda9879b1)
 
 
 So this is the required answer.
 
 How to Use?
+
 This system is completely menu-driven. So when you will run the C++ Application, it will guide you and show you the final output.
-Below is the execution of our current example: image
+Below is the execution of our current example: 
+![image](https://github.com/akankshaaaa14/Cashify/assets/113722539/435754cd-46ff-46ef-9e86-c2bd156a53a4)
+
 
 Thank you!! Happy learning :)
